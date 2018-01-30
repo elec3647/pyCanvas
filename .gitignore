@@ -99,3 +99,11 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# custom stuff
+.idea
+.api_key
+.password
+.passwords
+.course
+.courses
